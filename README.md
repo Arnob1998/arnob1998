@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnob</h1>
-<h3 align="center">I design and develop AI-powered application</h3>
+<h3 align="center">I design and develop AI-Powered application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob1998&label=Profile%20views&color=0e75b6&style=flat" alt="arnob1998" /> </p>
 
