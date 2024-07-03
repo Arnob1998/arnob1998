@@ -16,6 +16,10 @@
 
 <br/>
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arnob1998" alt="GitHub Streak" /></a>
+</p>
+
 <p>
   <img align="center" height="200" src="https://github-readme-stats-arnob1998-sigma.vercel.app/api?username=arnob1998&show_icons=true&locale=en" alt="arnob1998" /> 
   <img align="left"  height="200" width="39%" src="https://github-readme-stats-arnob1998-sigma.vercel.app/api/top-langs?username=arnob1998&show_icons=true&locale=en&layout=compact" alt="arnob1998" />
